@@ -36,12 +36,12 @@ Whether you’re forgetting to write that SQL query, or just need to remind your
 ## 🖼️ Screenshots  
 Here’s what the app looks like:  
 
-![App Screenshot](./images/screenshot1.png)
-![App Screenshot](./images/screenshot2.png)
-![App Screenshot](./images/screenshot3.png)
-![App Screenshot](./images/screenshot4.png)
-![App Screenshot](./images/screenshot5.png)
-![App Screenshot](./images/screenshot6.png)  
+![App Screenshot](./images/Screenshot1.png)
+![App Screenshot](./images/Screenshot2.png)
+![App Screenshot](./images/Screenshot3.png)
+![App Screenshot](./images/Screenshot4.png)
+![App Screenshot](./images/Screenshot5.png)
+![App Screenshot](./images/Screenshot6.png)  
 
 ---
 
